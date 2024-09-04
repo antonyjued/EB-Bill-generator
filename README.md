@@ -16,6 +16,6 @@ print("Application Development By Jued");
 
 *Database*
 |Id      |Name.    |.  No.of.projects|
-|--------|---------|-----------------|
-|pr01    |Antony   |35               |
+|--------|:---------:|-----------------|
+|pr01    |Antony. |35               |
 |pr02    |Jued     |45               |
